@@ -1,0 +1,46 @@
+Selamat datang di Sistem Pendaftaran Kursus Sederhana!
+====================================================
+
+--- Pendaftaran Guru ---
+Masukkan Nama Guru: Sandhika Galih
+Masukkan Umur Guru (angka): 32
+Masukkan NIP Guru: NIP9876
+-> Data Guru berhasil dibuat!
+
+--- Pendaftaran Siswa ---
+Masukkan Nama Siswa: Dea Afrizal
+Masukkan Umur Siswa (angka): 21
+Masukkan ID Siswa: ID2025007
+-> Data Siswa berhasil dibuat!
+
+--- Pembuatan Mata Kuliah ---
+Masukkan Nama Mata Kuliah: Dasar Pemrograman Web
+-> Mata Kuliah berhasil dibuat!
+
+
+====================================================
+HASIL PENDAFTARAN & DEMONSTRASI KONSEP OOP
+====================================================
+
+--- Demonstrasi Polymorphism (Overriding) ---
+Selamat pagi, saya Sandhika Galih, umur saya 32 tahun.
+Saya adalah seorang guru dengan NIP: NIP9876.
+
+Halo, nama saya Dea Afrizal, umur saya 21 tahun.
+Saya adalah seorang siswa dengan ID: ID2025007.
+
+
+--- Demonstrasi Polymorphism (Overloading) ---
+Tugas telah dikumpulkan.
+Tugas untuk mata kuliah Dasar Pemrograman Web telah dikumpulkan.
+
+
+--- Demonstrasi Composition ---
+Nama Mata Kuliah: Dasar Pemrograman Web
+Dosen Pengajar: Sandhika Galih
+
+
+--- Demonstrasi Encapsulation ---
+Mengakses data siswa melalui properti publik: Dea Afrizal
+
+Tekan tombol apa saja untuk keluar...
